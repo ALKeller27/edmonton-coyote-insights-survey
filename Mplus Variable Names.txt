@@ -1,0 +1,43 @@
+Coyote Survey - MPLUS data variable names 
+
+Data file is mplusCoyotesRatios.csv
+
+Names are listed in order below (each corresponds to a column in the csv listed above. Names should be read in order from left to right.) 
+
+  NAMES ARE Q1_CoySighting Q2_SightingCarBuilding Q2_SightingOver50m
+   Q2_SightingWithin50m Q2_Approach Q2_AttemptBite Q2_BiteKill Q2_NoCoyote
+   Severity Q3_Birds Q3_JackrabbitsHares Q3_Coyotes Q3_Deer Q3_DogOffLeash
+   Q3_CatsOffLeash Q3_Squirrels Q3_Rodents Q3_OtherAnimal Q3_None
+   Q4_BirdSquirrelFeeders_N Q4_BirdSquirrelFeeder_Greenspace
+   Q4_BirdSquirrelFeeders_NS Q4_BirdseedGround_N Q4_BirdseedGround_Greenspace
+   Q4_BirdseedGround_NS Q4_AlfalfaHay_N Q4_AlfalfaHay_Greenspace Q4_AlfalfaHay_NS
+   Q4_PetFood_N Q4_PetFood_Greenspace Q4_PetFood_NS Q4_MeatScraps_N
+   Q4_MeatScraps_Greenspace Q4_MeatScraps_NS Q4_Garbage_N Q4_Garbage_Greenspace
+   Q4_Garbage_NS Q4_Compost_N Q4_Compost_Greenspace Q4_Compost_NS Q4_Fruit_N
+   Q4_Fruit_Greenspace Q4_Fruit_NS AttractantScore_GS AttractantScore_N
+   Q5_SurviveReproduce Q5_LoseFear Q5_DependHumanFood Q5_CarryDisease
+   Q5_Aggressive Q5_Denning Q5_LethalControl KnowledgeScore Q6_EcoBenefits
+   Q6_InjureKillPets Q6_InjureKillPets_R Q6_HealthyEnvironment Q6_TooManyCoyotes
+   Q6_TooManyCoyotes_R Q6_PoseThreat Q6_PoseThreat_R Q6_LethalMgmtIfBite
+   Q6_LethalMgmtIfBite_R Q6_RightToExist Belief Q7_Risk_self Q7_Risk_children
+   Q7_Risk_pets Q7_Risk_disease Risk Q8_YardDay Q8_SchoolDawnDusk
+   Q8_FollowNaturalArea Q8_FollowNeighbourhood Q8_HuntNearHouses
+   Q8_ResidentialHazeDoesNotRun Q8_IntentionalFeeding Q8_HowlingYipping
+   Q8_ApproachLeashedDogNeighbourhood Q8_SickInjured Q8_GroupOrPupsDistance
+   Q8_DenYoungPups Q9_S1_Comfortable Q9_S1_ShouldNotOccur Q9_S1_RunAway
+   Q9_S1_TallLoudBackAway Q9_S1_StandStill Q9_S1_Ignore Q9_S1_Haze Q9_S1_311
+   NuisanceCall Q10_S1M_Tracking Q10_S1M_NoNotifyCity Q10_S1M_Education
+   Q10_S1M_Frighten Q10_S1M_Relocate Q10_S1M_LethalControl Q11_S2_Comfortable
+   Q11_S2_ShouldNotOccur Q11_S2_RunAway Q11_S2_TallLoudBackAway Q11_S2_StandStill
+   Q11_S2_Ignore Q11_S2_Haze Q11_S2_311 InformedCall InformedCallEX
+   Q12_S2M_Tracking Q12_S2M_NoNotifyCity Q12_S2M_Education Q12_S2M_Frighten
+   Q12_S2M_Relocate Q12_S2M_LethalControl Predicted311 Q13_KnowledgeHazing
+   Q14_ComfortHazing Q15_Called311 D5_PropertyOnGreenspace D6_Under13 D6_1364
+   D6_Over65 D6_OtherAge D6_PNTA ChildrenUnder13 D7_IndoorCats D7_OutdoorCats
+   D7_SmallDog D7_LargeDog D7_OffLeashDog D7_OtherOutdoorPet D7_OtherPet
+   D7_NoPets D7_PetsPNTA OutdoorPets D8_RespondentAge D9_Woman D9_Man
+   D9_Nonbinary D9_Transgender D9_TwoSpirit D9_OtherGender D9_GenderPNTA Gender
+   D10_RacializedVisibleMinority D10_PersonWithDisability D10_Indigenous
+   D10_NewToCanada D10_NoMarginalizedGroup D10_OtherMarginalizedGroup
+   D10_MarginalizedGroupPNTA D12_Education_Re Ratios311 Diff311;
+  MISSING ARE ALL (999);
